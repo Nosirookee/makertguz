@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY',"5959104721:AAHwjxbSoqqTBsdUZttOkRRWOYiYitj_0p8:");
+define('API_KEY',"5959104721:AAHwjxbSoqqTBsdUZttOkRRWOYiYitj_0p8");
 $admin = "5267471008"; 
 $folder = 'https://u4547.xvest5.ru/'; 
 $bnn = "MegaBuilderBot"; 
